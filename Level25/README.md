@@ -77,8 +77,7 @@ cat /home/bandit26/.pass	Reads the next level password
 
 minimize it.
 
-<img width="365" height="156" alt="Screenshot 2025-12-30 160213" src="https://github.com/user-
-attachments/assets/418c4dbf-38a6-4a77-80e3-fb0bca3626d4" />
+<img width="365" height="156" alt="Screenshot 2025-12-30 160213" src="https://github.com/user-attachments/assets/418c4dbf-38a6-4a77-80e3-fb0bca3626d4" />
 
 Click vi
 
