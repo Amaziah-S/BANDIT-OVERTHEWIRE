@@ -70,7 +70,7 @@ openssl s_client -connect localhost:PORT	Connects securely to an SSL/TLS service
 
 🔑 Next Level Password
 
-(Not displayed publicly for ethical reasons)
+EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
 
 🧠 Explanation
 
