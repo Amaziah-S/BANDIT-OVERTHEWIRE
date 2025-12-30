@@ -1,4 +1,5 @@
 Bandit Level 00 → Level 01
+
 🎯 Objective
 Log in to the Bandit game and retrieve the password for the next level from a file.
 
