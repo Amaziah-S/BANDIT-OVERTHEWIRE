@@ -56,10 +56,13 @@ cat /var/lib/dpkg/info/bandit7.password
 
 
 🧩 Command Purpose
-Command	Purpose
+
 find	Searches files by ownership and size
+
 2>/dev/null	Suppresses permission denied errors
+
 cat	Displays file contents
+
 
 📸 Screenshot Evidence
 <img width="847" height="281" alt="Screenshot 2025-12-26 125005" src="https://github.com/user-attachments/assets/f97d4740-43f2-48d3-a327-e9329e1e808c" />
