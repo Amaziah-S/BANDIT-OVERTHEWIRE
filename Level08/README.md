@@ -49,6 +49,7 @@ ls	Lists files in the current directory
 sort data.txt | uniq -u	Sorts the file and prints only lines that are unique
 
 📸 Screenshot Evidence
+
 <img width="447" height="130" alt="Screenshot 2025-12-26 130740" src="https://github.com/user-attachments/assets/a42a0194-fb6a-44d0-9298-cb0a2e6ec79e" />
 
 🔑 Next Level Password
