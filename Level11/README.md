@@ -58,6 +58,7 @@ tr 'A-Za-z' 'N-ZA-Mn-za-m'	Decodes ROT13-encoded text
 🔑 Next Level Password
 
 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
 🧠 Explanation
 
 ROT13 shifts each alphabet letter by 13 positions.
