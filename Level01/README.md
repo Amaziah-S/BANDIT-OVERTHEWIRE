@@ -40,7 +40,9 @@ cat ./-	Reads file named -
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 🔐 Concept Learned
+
 Handling special characters in filenames.
 
 🛡️ Security Insight
+
 Improper filename handling can cause command misuse.
