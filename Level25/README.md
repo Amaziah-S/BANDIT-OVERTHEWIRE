@@ -74,12 +74,18 @@ cat /home/bandit26/.pass	Reads the next level password
 📸 Screenshot Evidence
 
 <img width="667" height="225" alt="Screenshot 2025-12-30 160125" src="https://github.com/user-attachments/assets/9060848b-a907-4613-95ce-cdb57007ece7" />
+
 minimize it.
-<img width="365" height="156" alt="Screenshot 2025-12-30 160213" src="https://github.com/user-attachments/assets/418c4dbf-38a6-4a77-80e3-fb0bca3626d4" />
+
+<img width="365" height="156" alt="Screenshot 2025-12-30 160213" src="https://github.com/user-
+attachments/assets/418c4dbf-38a6-4a77-80e3-fb0bca3626d4" />
+
 Click vi
+
 <img width="524" height="902" alt="Screenshot 2025-12-30 160242" src="https://github.com/user-attachments/assets/cf1e7be9-96a7-4448-a3ec-c1a2fd41e60e" />
 
 <img width="243" height="103" alt="Screenshot 2025-12-30 160257" src="https://github.com/user-attachments/assets/6dd298da-e701-4945-b69c-792077e06405" />
+
 
 <img width="452" height="195" alt="Screenshot 2025-12-30 160328" src="https://github.com/user-attachments/assets/674d910f-54a6-4561-9040-d4e7b1a99183" />
 
