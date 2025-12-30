@@ -18,6 +18,7 @@ Read the file
 Username: bandit2
 
 Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
 🔍 Method of Solve
 
 The password is stored in a file named spaces in this filename.
