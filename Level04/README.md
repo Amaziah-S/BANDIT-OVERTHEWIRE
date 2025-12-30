@@ -40,9 +40,13 @@ Read the file to obtain the password
 
 🧪 Commands Used
 ls
+
 cd inhere
+
 file ./*
+
 cat ./-file07
+
 
 🧩 Command Purpose
 Command	Purpose
