@@ -6,7 +6,9 @@ Read a file with a special filename to retrieve the password.
 🧭 Quick Action Summary
 
 Login as bandit1
+
 Handle special filename
+
 Read password file
 
 🔑 Credentials Provided
@@ -34,8 +36,6 @@ ls
 cat ./-
 
 🧩 Command Purpose
-
-Command	Purpose
 
 cat ./-	Reads file named -
 
