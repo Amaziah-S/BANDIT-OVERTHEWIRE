@@ -13,18 +13,22 @@ Username: bandit1
 Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 🔍 Method of Solve
+
 The password is stored in a file named -.
 Since - is treated as stdin, it must be accessed using a relative path.
 
 🧪 Steps Followed
+
 List files
 Read the file using ./-
 
 🧪 Commands Used
+
 ls
 cat ./-
 
 🧩 Command Purpose
+
 Command	Purpose
 cat ./-	Reads file named -
 
@@ -32,6 +36,7 @@ cat ./-	Reads file named -
 
 
 🔑 Next Level Password
+
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 🔐 Concept Learned
