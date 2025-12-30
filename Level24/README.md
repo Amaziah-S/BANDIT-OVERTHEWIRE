@@ -41,12 +41,19 @@ Since the PIN is numeric (0000–9999), it can be brute-forced by sending all co
 🧪 Commands Used
 
 ls
+
 cd /tmp
+
 mkdir bd24
+
 cd bd24
+
 nano brute.sh
+
 chmod +x brute.sh
+
 ./brute.sh | nc localhost 30002
+
 
 
 
