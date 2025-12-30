@@ -1,4 +1,5 @@
 📘 Bandit Level 02 → Level 03
+
 🎯 Objective
 
 Log in to the Bandit game and read a file with spaces in its name to obtain the password for the next level.
