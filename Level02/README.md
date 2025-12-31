@@ -23,6 +23,7 @@ Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 🔍 Method of Solve
 
 The password is stored in a file named spaces in this filename.
+
 Since spaces separate command arguments, the filename must be enclosed in quotes to be accessed correctly.
 
 🧪 Steps Followed
@@ -38,13 +39,20 @@ Used quotation marks to read the file
 Retrieved the password
 
 🧪 Commands Used
+
 ls
+
 cat -- "--spaces in this filename--"
 
+
 🧩 Command Purpose
-Command	Purpose
+
 ls	Lists files in the directory
+
 cat -- "--spaces in this filename--"	Reads a file containing spaces in its name
+
+
+📸 Screenshot Evidence
 
 <img width="641" height="316" alt="image" src="https://github.com/user-attachments/assets/1cd99359-6a6a-4970-842f-ef9253c43fef" />
 
@@ -55,6 +63,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 🧠 Explanation
 
 The ls command reveals the file with spaces.
+
 Quoting the filename allows cat to correctly read its contents and display the password.
 
 🔐 Concept Learned
