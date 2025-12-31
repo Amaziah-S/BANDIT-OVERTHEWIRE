@@ -49,11 +49,15 @@ cat ./-file07
 
 
 🧩 Command Purpose
-Command	Purpose
+
 ls	Lists directory contents
+
 cd inhere	Enters the inhere directory
+
 file ./*	Shows the type of each file
+
 cat ./-file07	Displays the readable file content
+
 📸 Screenshot Evidence
 
 <img width="762" height="514" alt="Screenshot 2025-12-26 010847" src="https://github.com/user-attachments/assets/4de386e0-1463-437b-8d6d-ce7296bb8822" />
@@ -66,6 +70,7 @@ cat ./-file07	Displays the readable file content
 🧠 Explanation
 
 The file command identifies file formats.
+
 The readable file is detected and opened using cat to retrieve the password.
 
 🔐 Concept Learned
