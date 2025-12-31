@@ -1,6 +1,7 @@
 Bandit Level 01 → Level 02
 
 🎯 Objective
+
 Read a file with a special filename to retrieve the password.
 
 🧭 Quick Action Summary
@@ -38,6 +39,8 @@ cat ./-
 🧩 Command Purpose
 
 cat ./-	Reads file named -
+
+📸 Screenshot Evidence
 
 <img width="471" height="102" alt="image" src="https://github.com/user-attachments/assets/e2a2f6d7-3a11-4c92-b8ac-356389bc9556" />
 
